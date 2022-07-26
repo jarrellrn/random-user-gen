@@ -32,12 +32,12 @@ img {
   margin-bottom: 1rem;
 }
 
-.dogy {
+.dogy,.male {
   border-color: steelblue;
   background-color: steelblue;
 }
 
-.thief {
+.thief,.female {
   border-color: pink;
   background-color: pink;
   color: #333;
