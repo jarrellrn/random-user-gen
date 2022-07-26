@@ -8,6 +8,11 @@ const app = Vue.createApp({
       gender: "dogy",
       picture: "./assets/wolfie.png"
     }
+  },
+  methods: {
+    getUser() {
+      console.log(this.firstName)
+    }
   }
 })
 
