@@ -11,7 +11,7 @@ const app = Vue.createApp({
   },
   methods: {
     getUser() {
-      console.log(this.firstName)
+      console.log(this.firstName + " is a good boy")
     }
   }
 })
