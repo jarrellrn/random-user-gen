@@ -6,7 +6,7 @@ const app = Vue.createApp({
       lastName: "MacReady",
       email: "wolfie@gmail.com",
       gender: "dogy",
-      picture: "./assets/wolfie.jpg"
+      picture: "./assets/chip.jpg"
     }
   },
   methods: {
@@ -18,7 +18,7 @@ const app = Vue.createApp({
       this.lastName = "the Not Smuggler",
       this.email = "beebo@legitbusiness.com"
       this.gender = "thief",
-      this.picture = "./assets/catsmile.jpg"
+      this.picture = "./assets/beebo.jpg"
     }
   }
 })
