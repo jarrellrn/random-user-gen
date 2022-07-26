@@ -32,15 +32,9 @@ img {
   margin-bottom: 1rem;
 }
 
-.male {
+.dogy {
   border-color: steelblue;
   background-color: steelblue;
-}
-
-.female {
-  border-color: pink;
-  background-color: pink;
-  color: #333;
 }
 
 button {
