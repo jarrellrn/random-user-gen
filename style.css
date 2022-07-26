@@ -37,6 +37,12 @@ img {
   background-color: steelblue;
 }
 
+.nondogy {
+  border-color: pink;
+  background-color: pink;
+  color: #333;
+}
+
 button {
   cursor: pointer;
   display: inline-block;
