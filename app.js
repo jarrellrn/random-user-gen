@@ -10,8 +10,15 @@ const app = Vue.createApp({
     }
   },
   methods: {
+    // getUser() {
+    //   console.log(this.firstName + " is a good boy")
+    // }
     getUser() {
-      console.log(this.firstName + " is a good boy")
+      this.firstName = "Beebo",
+      this.lastName = "the Not Smuggler",
+      this.email = "beebo@legitbusiness.com"
+      this.gender = "thief",
+      this.picture = "./assets/catsmile.jpg"
     }
   }
 })
